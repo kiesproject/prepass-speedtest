@@ -8,4 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme.StopButton">
+        <item name="android:colorButtonNormal">@color/red</item>
+        <item name="colorButtonNormal">@color/red</item>
+    </style>
+
+    <style name="AppTheme.StartButton">
+        <item name="android:colorButtonNormal">@color/blue</item>
+        <item name="colorButtonNormal">@color/blue</item>
+    </style>
 </resources>

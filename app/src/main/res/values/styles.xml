@@ -17,8 +17,4 @@
         <item name="android:colorButtonNormal">@color/blue</item>
         <item name="colorButtonNormal">@color/blue</item>
     </style>
-
-    <style name="AppTheme.ParseTimeText">
-        <item name="android:textSize">30sp</item>
-    </style>
 </resources>
